@@ -1,0 +1,140 @@
+Juba,South Sudan,Africa,Hot,English,151,650
+N'Djamena,Chad,Africa,Hot,French,101,150
+Zeloufiet,Niger,Africa,Hot,French,151,650
+Ouagadougou,Burkina Faso,Africa,Hot,French,151,650
+Antananarivo,Madagascar,Africa,Hot,French,1201,2000
+Cairo,Egypt,Africa,Very Hot,Arabic,1201,2000
+Tehran,Iran,Africa,Hot,French,151,650
+Alexandria,Egypt,Africa,Hot,Arabic,1201,2000
+Rabat,Morocco,Africa,Hot,Arabic,1201,2000
+Fes,Morocco,Africa,Hot,Arabic,1201,2000
+Abidjan,Côte d'Ivoire,Africa,Hot,French,651,1200
+Lagos,Nigeria,Africa,Hot,English,151,600
+Pyongyang,North Korea,Asia,Warm,Korean,2001,5000
+Ssangpoi-dong,North Korea,Asia,Moderate,Korean,2001,5000
+Sana'a,Yemen,Asia,Hot,Arabic,101,150
+Shanghai,China,Asia,Moderate,Mandarin,2001,5000
+Lanzhou,China,Asia,Cold,Mandarin,651,1200
+Beijing,China,Asia,Moderate,Mandarin,1201,2000
+Tokyo,Japan,Asia,Moderate,Japanese,2001,5000
+Kagoshima,Japan,Asia,Moderate,Japanese,1201,2000
+Sapporo,Japan,Asia,Cool,Japanese,651,1200
+Seoul,South Korea,Asia,Moderate,Korean,2001,5000
+Busan,South Korea,Asia,Moderate,Korean,1201,2000
+Taichung City,Taiwan,Asia,Warm,Mandarin,651,1200
+Manila,Philippines,Asia,Warm,English,651,1200
+Mumbai,India,Asia,Hot,Marathi,1201,2000
+New Delhi,India,Asia,Very Hot,Hindi,651,1200
+Chennai,India,Asia,Hot,English,651,1200
+Vapi,India,Asia,Hot,Gujurati,151,650
+Dhaka,Bangladesh,Asia,Very Hot,Bengali,651,1200
+Bangkok,Thailand,Asia,Very Hot,Thai,651,1200
+Colombo,Sri Lanka,Asia,Hot,Sinhala,151,650
+Ho Chi Minh City,Vietnam,Asia,Hot,Vietnamese,151,650
+Lhasa,Tibet,Asia,Moderate,Tibetan,1201,2000
+Kabul,Afghanistan,Asia,Hot,Persian,651,1200
+Bishkek,Kyrgyzstan,Asia,Moderate,Kyrgzy,151,650
+Samarkand,Uzbekistan,Asia,Warm,Uzbek,151,650
+Palestine,Israel,Asia,Hot,Hebrew,50,100
+Singapore,Singapore,Asia,Hot,English,5001,10000
+Yakutsk,Russia,Asia,Very Cold,Sakha,151,650
+Jakarta,Indonesia,Asia,Hot,Indonesian,151,650
+Banjarmasin,Indonesia,Asia,Hot,Indonesian,151,650
+Surabaya,Indonesia,Asia,Hot,Indonesian,651,1200
+Bandung,Indonesia,Asia,Hot,Indonesian,151,650
+Kuala Lumpur,Malaysia,Asia,Very Hot,Malay,1201,2000
+Hitiaa O Te Ra,French Polynesia,Australia,Hot,French,151,650
+Melbourne,Australia,Australia,Very Hot,English,2001,5000
+Sydney,Australia,Australia,Hot,English,2001,5000
+Ardyaloon,Australia,Australia,Hot,English,1201,2000
+Port Moresby,Papua New Guinea,Australia,Hot,Tok Pisin,651,1200
+Wellington,New Zealand,Australia,Hot,English,651,1200
+Honiara,Solomon Islands,Australia,Hot,English,651,1200
+Milford Sound,New Zealand,Australia,Moderate,English,151,650
+Hawaii,USA,Australia,Very Hot,English,2001,5000
+Dili,Timor-Leste,Australia,Very Hot,Portuguese,151,650
+Berlin,Germany,Europe,Cool,German,2001,5000
+Hamburg,Germany,Europe,Cool,German,2001,5000
+Munich,Germany,Europe,Moderate,German,2001,5000
+Frankfurt,Germany,Europe,Moderate,German,2001,5000
+Brussels,Belgium,Europe,Moderate,French,2001,5000
+Luxembourg,Luxembourg,Europe,Moderate,French,1201,2000
+Paris,France,Europe,Moderate,French,2001,5000
+Amsterdam,Netherlands,Europe,Moderate,Dutch,1201,2000
+London,United Kingdom,Europe,Moderate,English,2001,5000
+Dublin,Ireland,Europe,Moderate,English,1201,2000
+Copenhagen,Denmark,Europe,Cool,Danish,2001,5000
+Stockholm,Sweden,Europe,Cool,Swedish,2001,5000
+Helsinki,Finland,Europe,Cool,Finnish,2001,5000
+Kyiv,Ukraine,Europe,Cold,Ukrainian,1201,2000
+Warsaw,Poland,Europe,Cold,Polish,1201,2000
+Moscow,Russia,Europe,Cold,Russian,1201,2000
+Tallinn,Estonia,Europe,Cool,Estonian,2001,5000
+Madrid,Spain,Europe,Warm,Spanish,2001,5000
+Lisbon,Portugal,Europe,Warm,Spanish,2001,5000
+Rome,Italy,Europe,Hot,Italian,2001,5000
+Zagreb,Croatia,Europe,Warm,Croatian,1201,2000
+Istanbul,Turkey,Europe,Warm,Turkish,2001,5000
+Balti,Maldova,Europe,Warm,Romanian,1201,2000
+Athens,Greece,Europe,Very Hot,Greek,2001,5000
+Barcelona,Spain,Europe,Hot,Spanish,2001,5000
+Benidorm,Spain,Europe,Hot,Spanish,5001,10000
+Podgorico,Montenegro,Europe,Warm,Montenegrin,2001,5000
+Arbon,USA,North America,Warm,English,651,1200
+Harrison,USA,North America,Warm,English,651,1200
+Toronto,Canada,North America,Cold,English,2001,5000
+Brampton,Canada,North America,Cold,English,651,1200
+Montreal,Canada,North America,Cold,French,2001,5000
+Vancouver,Canada,North America,Cool,English,2001,5000
+Taloyoak,Canada,North America,Very Cold,English,101,150
+New York City,USA,North America,Moderate,English,5001,10000
+Las Vegas,USA,North America,Very Hot,English,5001,10000
+Los Angeles,USA,North America,Warm,English,5001,10000
+Eagle Butte,USA,North America,Moderate,English,651,1200
+Mexico City,Mexico,North America,Very Hot,Spanish,651,1200
+Heroica Veracruz,Mexico,North America,Very Hot,Spanish,151,650
+Veracruz,Mexico,NorthAmerica,Hot,Spanish,651,1200
+Playa del Carmen,Mexico,North America,Hot,Spanish,5001,10000
+Whittier,USA,North America,Very Cold,English,2001,5000
+Atlanta,USA,North America,Moderate,English,651,1200
+Memphis,USA,North America,Moderate,English,651,1200
+Miami,USA,North America,Hot,English,2001,5000
+St Pierre and Miquelon,Canada,North America,Cool,English,651,1200
+Nuuk,Greenland,North America,Very Cold,Greenlandic,651,1200
+San José,Costa Rica,North America,Hot,Spanish,651,1200
+Nassau,The Bahamas,North America,Hot,English,5001,10000
+Quetzaltenango,Guatemala,North America,Hot,Spanish,151,650
+Puerto Cabezas,Nicaragua,North America,Hot,Spanish,151,650
+Managua,Nicaragua,North America,Hot,Spanish,151,650
+San Salvador,El Salvador,North America,Hot,Spanish,151,650
+San Francisco Gotera,El Salvador,North America,Hot,Spanish,151,650
+San Juan,Puerto Rico,North America,Hot,Spanish,651,1200
+Santo Domingo,Dominican Republic,North America,Hot,Spanish,1201,2000
+Fort-de-France,Martinique,North America,Hot,French,651,1200
+Grace Bay,Turks and Caicos Islands,North America,Hot,English,2001,5000
+Kingston,Jamaica,North America,Hot,English,651,1200
+Jacmel,Haiti,North America,Hot,Haitian Creole,651,1200
+Havana,Cuba,North America,Hot,Spanish,1201,2000
+Rio de Janeiro,Brazil,South America,Hot,Portuguese,1201,2000
+Brasília,Brazil,South America,Hot,Portuguese,651,1200
+Manaus,Brazil,South America,Hot,Portuguese,151,650
+Belém,Brazil,South America,Very Hot,Portuguese,651,1200
+Montevideo,Uruguay,South America,Warm,Spanish,151,650
+Santiago,Chile,South America,Warm,Spanish,151,650
+Quito,Ecuador,South America,Hot,Spanish,151,650
+El cascajo,Ecuador,South America,Hot,Spanish,651,1200
+Bogotá,Colombia,South America,Hot,Spanish,151,650
+Saul,French Guiana,South America,Hot,French,151,650
+Remire-Montjoly,French Guiana,South America,Very Hot,French,651,1200
+Asunción,Paraguay,South America,Very Hot,Spanish,151,650
+Mayor Pablo Lagerenza,Paraguay,South America,Very Hot,Spanish,151,650
+Caracas,Venezuela,South America,Very Hot,Spanish,151,650
+Buenos Aires,Argentina,South America,Warm,Spanish,151,650
+Baie-Mahault,Guadeloupe,South America,Very Hot,French,1201,2000
+Paramaribo,Suriname,South America,Very Hot,Dutch,151,650
+La Paz,Bolivia,South America,Hot,Spanish,151,650
+Santa Cruz de la Sierra,Bolivia,South America,Very Hot,Spanish,151,650
+Lima,Peru,South America,Very Hot,Spanish,651,1200
+Tarapoto,Peru,South America,Hot,Spanish,151,650
+FreeTown,Antigua and Barbuda,South America,Very Hot,English,2001,5000
+Ross Island,New Zealand,Antarctica,Very Cold,English,1201,2000
